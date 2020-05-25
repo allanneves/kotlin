@@ -128,7 +128,8 @@ It covers the main points from the Basics to more advanced topics like Coroutine
 
 * [Functions](src/main/kotlin/functions)
   - [Function](src/main/kotlin/functions/partone/Function.kt)
-  - [Parameters](src/main/kotlin/functions/partone/Parameters.kt)  
+  - [Parameters](src/main/kotlin/functions/partone/Parameters.kt)
+  - [Default Parameters](src/main/kotlin/functions/partone/DefaultParameters.kt)
   - [Return](src/main/kotlin/functions/partone/Return.kt)
   - [Function Overload](src/main/kotlin/functions/parttwo/FunctionOverload.kt)
   - [Local Functions](src/main/kotlin/functions/parttwo/LocalFunctions.kt)
